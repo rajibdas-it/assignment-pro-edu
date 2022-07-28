@@ -66,3 +66,27 @@
           </div>
         </nav> -->
       </section>
+
+
+
+
+      -------------Course Details Section-------------
+      <div class="col-lg-6 col-md-12 col-12">
+            <div class="d-flex d-md-flex flex-md-row">
+              <img
+                class="img-fluid"
+                src="./assets/images/course/course-1.png"
+                alt=""
+              />
+              <div
+                class="d-lg-flex flex-column justify-content-center align-ite"
+              >
+                <h2>Fundamental Of UI/UX Design</h2>
+                <p>
+                  Some quick example text to build on the card title and make up
+                  the bulk of the card.
+                </p>
+                <p>Price: 20$</p>
+              </div>
+            </div>
+          </div>
