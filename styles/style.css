@@ -22,8 +22,12 @@ body {
 }
 
 .etutor-btn {
+  /* width: 200px;
+  height: 50px; */
   width: 200px;
   height: 50px;
+  margin-top: -78px;
+  margin-left: 75px;
 }
 
 .etutor-me {
