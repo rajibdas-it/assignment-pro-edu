@@ -1,5 +1,6 @@
 :root {
   --primary-font: "Poppins";
+  --primary-color: #289bde;
 }
 
 /* .edu-text {
@@ -11,4 +12,7 @@ body {
 }
 .dark-shade {
   filter: brightness(60%);
+}
+.etutor-btn {
+  background-color: var(--primary-color);
 }
