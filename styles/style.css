@@ -36,3 +36,7 @@ body {
 .edtutor-mb {
   margin-bottom: 65px;
 }
+
+.rating .fa-star.rating-clr {
+  color: gold;
+}
