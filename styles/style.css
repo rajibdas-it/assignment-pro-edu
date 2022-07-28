@@ -9,12 +9,6 @@
 body {
   font-family: var(--primary-font) !important;
 }
-
-.banner-title {
-  /* margin-bottom: 17.5rem; */
-  font-size: 5.25rem;
-}
-
-.banner-text {
-  margin-bottom: 19rem;
+.dark-shade {
+  filter: brightness(60%);
 }
