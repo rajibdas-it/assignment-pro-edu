@@ -67,3 +67,8 @@ body {
 .social-icon {
   font-size: 2rem;
 }
+.etutor-text {
+  font-family: var(--primary-font);
+  font-size: 14px;
+  font-weight: 400;
+}
