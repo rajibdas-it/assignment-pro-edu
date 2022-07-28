@@ -40,3 +40,27 @@ body {
 .rating .fa-star.rating-clr {
   color: gold;
 }
+
+.card-text {
+  position: relative;
+}
+
+.left-arrow i {
+  position: absolute;
+  top: 60px;
+  left: -40px;
+}
+.right-arrow i {
+  position: absolute;
+  top: 60px;
+  right: -40px;
+}
+
+.etutor-prev-btn {
+  font-size: 40px;
+  color: #e5f6ff;
+}
+.etutor-next-btn {
+  font-size: 40px;
+  color: #289bde;
+}
